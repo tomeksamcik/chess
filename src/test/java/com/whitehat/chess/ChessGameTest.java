@@ -1,4 +1,4 @@
-package com.whitehat.interview;
+package com.whitehat.chess;
 
 import static org.junit.Assert.assertEquals;
 
